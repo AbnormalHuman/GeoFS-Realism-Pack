@@ -343,7 +343,6 @@ clearInterval(blackoutLoadInt)
     script2.onload = function () {
         runCatapults();
     };
-    function checkOverlays()
     
     console.log("Original immersion SFX scripts copyright Ariakim Taiyo");
     console.log("Modified by NVB9 and Kolos26");
