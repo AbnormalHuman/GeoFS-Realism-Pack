@@ -338,7 +338,7 @@ clearInterval(blackoutLoadInt)
         lookBack();
     }, 100);
     var script2 = document.createElement("script");
-    script2.src = "https://cdn.jsdelivr.net/gh/NVB9ALT/GeoFs-Carrier-Catapults-from-AriakimTaiyo@main/catapultsY.js";
+    script2.src = "https://raw.githack.com/AbnormalHuman/GeoFs-Carrier-Catapults-from-AriakimTaiyo/main/catapultsY.js";
     document.body.appendChild(script2);
     script2.onload = function () {
         runCatapults();
